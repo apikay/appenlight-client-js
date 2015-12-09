@@ -1,5 +1,6 @@
 {
     "name": "appenlight-client",
+    "version": "0.0.1",
     "description": "Javascript client for App Enlight",
     "devDependencies": {
         "grunt": "",
